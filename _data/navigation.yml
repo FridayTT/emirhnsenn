@@ -1,0 +1,12 @@
+main:
+  - title: "History"
+    url: /history
+    author_profile: true
+
+  - title: "Activities"
+    url: /activities
+    author_profile: true
+
+  - title: "Dining"
+    url: /dining
+    author_profile: true
